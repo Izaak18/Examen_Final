@@ -1,0 +1,23 @@
+{
+  "expo": {
+    "name": "Catálogo Académico",
+    "slug": "catalogo-academico",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "backgroundColor": "#F4F7FB"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#F4F7FB"
+      }
+    }
+  }
+}
