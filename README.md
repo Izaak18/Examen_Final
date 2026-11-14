@@ -4,8 +4,6 @@ Aplicación móvil de examen desarrollada con Expo y JavaScript. Consulta catego
 
 ## Integrantes
 
-Completar los integrantes restantes para tener 4 o 5 en total:
-
 1. Jose Isaac Martinez — 23-05502-1
 2. Engels Suarez — 23-05741-1
 
